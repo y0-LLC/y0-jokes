@@ -1,4 +1,4 @@
-F.A.Q
+F.A.Q:
 WHAT IS YP-JOKES_ORIGINAL.exe
 Ypjo.exe (YP-JOKES_ORIGINAL.exe) is a joke panel using MS-DOS.
 WHAT DO I NEED? 
