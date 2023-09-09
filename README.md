@@ -7,5 +7,5 @@ WHAT IS app.if?
 APP.IF IS TO KNOW HOW MUCH TIME YOU'VE LAUNCHED THE EXECUTOR AND KNOW YOUR USERNAME.
 HOW IT WORKS?
 You just have to launch yp-jokes_original.exe.
-WHAT IS icons.ypic
-THIS IS AN ICON PACK USED AS ALT.
+WHAT IS notbeinginuse folder
+This is a Folder with scripts that are not in use you can download them or not.
